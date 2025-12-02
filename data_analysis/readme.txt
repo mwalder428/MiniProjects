@@ -1,0 +1,5 @@
+This folder contains a Jupyter notebook I wrote at the beginning of my PhD to learn how to fit models to data.  It follows the sections and exercises laid out in "Data analysis recipes: Fitting a model to data" by David Hogg, Jo Bovy, and Dustin Lang.
+
+The authors explain how to find a best-fitting model and discuss a few model-fitting techniques including least-squares fitting and probability distribution sampling (Bayesian analysis) which accommodate a given data set based on its uncertainties. Through the simple example of fitting a straight line to a set of data, the paper guides the reader through the model-fitting process with exercises that reinforce the concepts and procedures discussed.  In the notebook, I synthesize what I learned and complete selected exercises from the paper up to the final section on intrinsic scatter (which I still recommend reading and completing, the notebook just became quite long).  
+
+This folder contains the notebook I created to complete exercises while reading the paper and corresponding plots.  
